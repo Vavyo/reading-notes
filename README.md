@@ -14,6 +14,10 @@ This is where I would have shown off 102 stuff like `print "Hello World"` and su
 
 ## Code 401 - Advanced Software Development
 
+[Exception Handling & Debugging](readingNotes1.md)
+
+### Can I delete this stuff now?
+
 I'll be using [Links](README.md) to navigate later.
 
 - lists
